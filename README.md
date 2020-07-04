@@ -1,2 +1,3 @@
 # hello-world
-es un ejemplo de crear un repositorio del curso
+es un ejemplo de crear un repositorio del curso.
+Estor en este
